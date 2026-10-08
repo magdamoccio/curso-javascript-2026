@@ -1,3 +1,8 @@
+/* datos
+magdalena moccio
+dni 42393867
+*/
+
 const prompt = require("prompt-sync")()
 
 // ejercicio 1
